@@ -1,0 +1,13 @@
+.sobremi h1{
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+.borde{
+    text-decoration: none;
+}
+
+.img-tama img{
+    width: 300px;
+    height: 300px;
+}
