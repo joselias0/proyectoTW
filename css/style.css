@@ -1,10 +1,17 @@
 .sobremi h1{
-    font-family: 'Bungee Spice', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+.sobremi h3{
     font-family: 'Pacifico', cursive;
 }
 
 .borde{
     text-decoration: none;
+}
+
+.habi p{
+    font-family: 'Abril Fatface', cursive;
 }
 
 .img-tama img{
