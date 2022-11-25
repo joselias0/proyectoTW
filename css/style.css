@@ -18,3 +18,7 @@
     width: 300px;
     height: 300px;
 }
+
+.letra h2{
+    font-family: 'DynaPuff', cursive;
+}
